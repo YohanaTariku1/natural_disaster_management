@@ -1,0 +1,23 @@
+.first-responders-page {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .responders-section {
+    margin-bottom: 20px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  .contact-dropdown {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .contact-dropdown option {
+    padding: 10px;
+  }
